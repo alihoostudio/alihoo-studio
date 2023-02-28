@@ -33,7 +33,7 @@ export default function Home() {
 				<div
 					className={`h-full w-full min-w-[calc(33.3333333%-2rem)] bg-cool-2`}
 				>
-					<div className={`aspect-3/2 bg-cool-4`}>3/2</div>
+					<div className={`aspect-3/2 bg-cool-4`}>3/2 and more</div>
 				</div>
 				<div
 					className={`h-full w-full min-w-[calc(33.3333333%-2rem)] bg-cool-2`}
